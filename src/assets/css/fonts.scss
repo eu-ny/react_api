@@ -75,6 +75,7 @@
 
   font-display: swap;
 }
+
 @font-face {
   font-family: "Rajdhani-Display";
   font-weight: 700;
@@ -84,6 +85,32 @@
     url("../fonts/Rajdhani-Bold.woff2") format("woff2"),
     url("../fonts/Rajdhani-Bold.woff") format("woff"),
     url("../fonts/Rajdhani-Bold.ttf") format("truetype");
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NanumSquare";
+  font-weight: 200;
+  font-style: normal;
+  src: url("../fonts/NanumSquareL.eot");
+  src: url("../fonts/NanumSquareL.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/NanumSquareL.woff2") format("woff2"),
+    url("../fonts/NanumSquareL.woff") format("woff"),
+    url("../fonts/NanumSquareL.ttf") format("truetype");
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NanumSquare";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/NanumSquareR.eot");
+  src: url("../fonts/NanumSquareR.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/NanumSquareR.woff2") format("woff2"),
+    url("../fonts/NanumSquareR.woff") format("woff"),
+    url("../fonts/NanumSquareR.ttf") format("truetype");
 
   font-display: swap;
 }

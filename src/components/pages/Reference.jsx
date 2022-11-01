@@ -3,16 +3,16 @@ import Header from "../layout/Header";
 import Contents from "../layout/Contents";
 import Footer from "../layout/Footer";
 import Title from "../layout/Title";
-import AboutCont from "../include/AboutCont";
+import ReferCont from "../include/ReferCont";
 import Contact from "../layout/Contact";
 
-const About = () => {
+const Reference = () => {
     return (
         <>
             <Header />
             <Contents>
-                <Title title={["About", "referece api"]} />
-                <AboutCont />
+                <Title title={["referece", "referece api"]} />
+                <ReferCont />
                 <Contact />
             </Contents>
             <Footer />
@@ -20,4 +20,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default Reference;

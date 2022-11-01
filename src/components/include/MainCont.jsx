@@ -1,18 +1,28 @@
 import React from "react";
 
+const mainInfo = [
+    { text: "we provide" },
+    { text: "visual" },
+    { text: "solution" },
+    { text: "for you API" },
+];
+
+const MainText = ({text}) => {
+    return <div>{text}</div>;
+};
+
 const Maincont = () => {
-  return (
-    <section className="cont__main">
-      <div className="container">
-        <div className="main__inner">
-          <div>we provide</div>
-          <div>visual</div>
-          <div>solution</div>
-          <div>for you API</div>
-        </div>
-      </div>
-    </section>
-  );
+    return (
+        <section className="cont__main">
+            <div className="container">
+                <div className="main__inner">
+                    {mainInfo.map((text) => (
+                        <MainText text={text.text} />
+                    ))}
+                </div>
+            </div>
+        </section>
+    );
 };
 
 export default Maincont;
