@@ -1,0 +1,149 @@
+{
+    "type": "css",
+    "cssRefer": [
+        {
+            "num": 1,
+            "title": "accent-color",
+            "desc": "accent-color 속성은 요소의 강조 색상을 지정합니다.",
+            "desc2": "accent-color 속성은 <input type='checkbox'> | <input type='radio'> | <input type='range'> | <progress>에 적용할 수 있습니다.",
+            "basic": "accent-color : auto",
+            "apply": "flexbox",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [ "accent-color 속성은 콘요소의 강조 색상을 지정합니다." ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color"
+        },
+        {
+            "num": 2,
+            "title": "align-content",
+            "desc": "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+            "desc2": "align-content 속성은 줄(flex-wrap : nowrap)에서는 의미가 없으먀, 컨테이너 높이 값을 기준으로 정렬합니다.",
+            "basic": "align-content : stretch",
+            "apply": "flexbox",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": ["align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다."],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 3,
+            "title": "align-item",
+            "desc": "align-item 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+            "desc2": "align-item 속성은 아이템의 높이 값을 기준으로 정렬합니다.",
+            "basic": "align-item : stretch",
+            "apply": "flexbox",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "align-item 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+                "align-item 속성은 아이템의 높이 값을 기준으로 정렬합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 4,
+            "title": "align-self",
+            "desc": "align-self 속성은 요소의 강조 색상을 지정합니다..",
+            "desc2": "align-self 속성은요소의 강조 색상을 지정합니다.",
+            "basic": "align-self : stretch",
+            "apply": "flexbox",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "align-self 속성은 요소의 강조 색상을 지정합니다..",
+                "align-self 속성은요소의 강조 색상을 지정합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 5,
+            "title": "all",
+            "desc": "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다.",
+            "desc2": "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다.",
+            "basic": "all : stretch",
+            "apply": "flexbox",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다.",
+                "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 6,
+            "title": "animation",
+            "desc": "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+            "desc2": "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+            "basic": "animation : stretch",
+            "apply": "animation",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+                "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 7,
+            "title": "animation-delay",
+            "desc": "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+            "desc2": "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+            "basic": "animation-delay : stretch",
+            "apply": "animation",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+                "animation-delay 속성은 애니메이션 지연 시간을 설정합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 8,
+            "title": "animation-direction",
+            "desc": "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+            "desc2": "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+            "basic": "animation-direction : stretch",
+            "apply": "animation",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+                "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 9,
+            "title": "animation-duration",
+            "desc": "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다",
+            "desc2": "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다",
+            "basic": "animation-duration : stretch",
+            "apply": "animation",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다",
+                "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다"
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        },
+        {
+            "num": 10,
+            "title": "animation-fill-mode",
+            "desc": "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+            "desc2": "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+            "basic": "animation-fill-mode : stretch",
+            "apply": "animation",
+            "cssVer": "CSS3",
+            "star": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+                "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다."
+            ],
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content"
+        }
+    ]
+}

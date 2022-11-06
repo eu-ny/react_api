@@ -2,133 +2,1161 @@
     "type": "css",
     "cssRefer": [
         {
-            "num": 1,
-            "title": "accent-color",
-            "desc": "accent-color 속성은 요소의 강조 색상을 지정합니다.",
-            "descBasic": "accent-color : stretch",
-            "descApple": "flexbox",
+            "num": 331,
+            "name": "scrollbar-color",
+            "desc": "스크롤의 색상을 설정합니다.",
+            "values": [
+                "auto",
+                "<color>"
+            ],
+            "initial": "auto",
+            "syntax": "scrollbar-color: auto",
+            "descApple": "scrolling boxes",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "accent-color 속성은 콘요소의 강조 색상을 지정합니다.",
-                "accent-color 속성은 콘요소의 강조 색상을 지정합니다."
+                "스크롤바의 트랙과 스크롤 색상을 설정합니다.",
+                "스크롤바의 트랙은 배경을 의미하며, 일반적으로 스크롤 위치와 관계없이 고정됩니다."
             ]
         },
         {
-            "num": 2,
-            "title": "align-content",
-            "desc": "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
-            "descBasic": "align-content : stretch",
-            "descApple": "flexbox",
+            "num": 332,
+            "name": "scrollbar-gutter",
+            "desc": "스크롤 막대의 존재 여부에 따른 레이아웃의 변화를 없애줍니다.",
+            "values": [
+                "auto",
+                "stable",
+                "both-edges"
+            ],
+            "initial": "auto",
+            "syntax": "scrollbar-gutter: auto",
+            "descApple": "scrolling boxes",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
-                "align-content 속성은 줄(flex-wrap : nowrap)에서는 의미가 없으먀, 컨테이너 높이 값을 기준으로 정렬합니다."
+                "스크롤 막대의 존재 여부에 따른 레이아웃의 변화를 없애줍니다.",
+                "요소의 스크롤 막대 여백 은 브라우저가 스크롤 막대를 표시할 수 있는 내부 테두리 가장자리와 외부 패딩 가장자리 사이의 공간입니다.",
+                "스크롤바가 없으면 여백이 패딩의 확장으로 그려집니다."
             ]
         },
         {
-            "num": 3,
-            "title": "align-item",
-            "desc": "align-item 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
-            "descBasic": "align-item : stretch",
-            "descApple": "flexbox",
+            "num": 333,
+            "name": "scrollbar-width",
+            "desc": "스크롤 막대의 너비를 설정합니다.",
+            "values": [
+                "auto",
+                "thin",
+                "none"
+            ],
+            "initial": "auto",
+            "syntax": "scrollbar-width: auto",
+            "descApple": "scrolling boxes",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "align-item 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
-                "align-item 속성은 아이템의 높이 값을 기준으로 정렬합니다."
+                "스크롤 막대의 최대 너비를 설정합니다."
             ]
         },
         {
-            "num": 4,
-            "title": "align-self",
-            "desc": "align-self 속성은 요소의 강조 색상을 지정합니다..",
-            "descBasic": "align-self : stretch",
-            "descApple": "flexbox",
+            "num": 334,
+            "name": "shape-image-threshold",
+            "desc": "이미지의 모양을 추출하기 위해 알파 채널 임계값을 설정합니다.",
+            "values": [
+                "<number>"
+            ],
+            "initial": "0.0",
+            "syntax": "shape-image-threshold: 0.7",
+            "descApple": "floats",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "align-self 속성은 요소의 강조 색상을 지정합니다..",
-                "align-self 속성은요소의 강조 색상을 지정합니다."
+                "이미지의 모양을 추출하기 위해 알파 채널 임계값을 설정합니다.",
+                "이 값보다 불투명한 픽셀은 모양의 영역을 계산하는 데 사용됩니다."
             ]
         },
         {
-            "num": 5,
-            "title": "all",
-            "desc": "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다.",
-            "descBasic": "all : stretch",
-            "descApple": "flexbox",
+            "num": 335,
+            "name": "shape-margin",
+            "desc": "인접한 인라인 콘텐츠가 상자를 둘러싸는 모양의 여백을 설정합니다.",
+            "values": [
+                "<length>",
+                "<percentage>"
+            ],
+            "initial": "0",
+            "syntax": "shape-margin: 10px",
+            "descApple": "floats",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다.",
-                "all 속성은 요소의 모든 속성을 초기화합니다. 또는 상속을 설정합니다."
+                "인접한 인라인 콘텐츠가 상자를 둘러싸는 모양의 여백을 설정합니다.",
+                "모양의 여백을 <length>값 또는 <percentage>요소를 포함하는 블록의 너비로 설정합니다."
             ]
         },
         {
-            "num": 6,
-            "title": "animation",
-            "desc": "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
-            "descBasic": "animation : stretch",
-            "descApple": "animation",
+            "num": 336,
+            "name": "shape-outside",
+            "desc": "인접한 인라인 콘텐츠가 상자를 둘러싸는 모양을 설정합니다.",
+            "values": [
+                "none",
+                "margin-box",
+                "content-box",
+                "border-box",
+                "padding-box",
+                "circle()",
+                "ellipse()",
+                "inset()",
+                "polygon()",
+                "path()",
+                "url()",
+                "linear-gradient()"
+            ],
+            "initial": "none",
+            "syntax": "shape-outside: none",
+            "descApple": "floats",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
-                "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다."
+                "인접한 인라인 콘텐츠가 상자를 둘러싸는 모양의 여백을 설정합니다.",
+                "복잡한 개체 주위에 텍스트를 줄 바꿈할 수 있습니다."
             ]
         },
         {
-            "num": 7,
-            "title": "animation-delay",
-            "desc": "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
-            "descBasic": "animation-delay : stretch",
-            "descApple": "animation",
+            "num": 337,
+            "name": "tab-size",
+            "desc": "글씨의 간격을 정의합니다.",
+            "values": [
+                "<integer>",
+                "<length>"
+            ],
+            "initial": "8",
+            "syntax": "tab-size: 10px",
+            "descApple": "block containers",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
-                "animation-delay 속성은 애니메이션 지연 시간을 설정합니다."
+                "글씨의 간격을 정의합니다.",
+                "간격을 정의할 땐 음수가 아니어야 합니다."
             ]
         },
         {
-            "num": 8,
-            "title": "animation-direction",
-            "desc": "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
-            "descBasic": "animation-direction : stretch",
-            "descApple": "animation",
+            "num": 338,
+            "name": "table-layout",
+            "desc": "표의 레이아웃 크기를 정의합니다.",
+            "values": [
+                "auto",
+                "fixed"
+            ],
+            "initial": "auto",
+            "syntax": "table-layout: auto",
+            "descApple": "table",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
             "definition": [
-                "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
-                "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다."
+                "표의 레이아웃 크기를 정의합니다.",
+                "셀, 행, 열과 같은 table-layout을 배치하는 데 사용됩니다."
             ]
         },
         {
-            "num": 9,
-            "title": "animation-duration",
-            "desc": "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다",
-            "descBasic": "animation-duration : stretch",
-            "descApple": "animation",
+            "num": 339,
+            "name": "text-align",
+            "desc": "텍스트 정렬 방식을 설정합니다.",
+            "values": [
+                "start",
+                "end",
+                "left",
+                "right",
+                "center",
+                "justify",
+                "justify-all",
+                "match-parent",
+                "<string>"
+            ],
+            "initial": "start",
+            "syntax": "text-align: start",
+            "descApple": "block containers",
             "descVer": "CSS3",
-            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "descStar": "✦ ✦ ✦ ✦ ✦",
             "definition": [
-                "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다",
-                "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다"
+                "텍스트 정렬 방식을 설정합니다.",
+                "블록 요소 또는 테이블 셀 상자 내부의 인라인 수준 콘텐츠의 수평 정렬을 설정합니다."
             ]
         },
         {
-            "num": 10,
-            "title": "animation-fill-mode",
-            "desc": "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
-            "descBasic": "animation-fill-mode : stretch",
-            "descApple": "animation",
+            "num": 340,
+            "name": "text-align-last",
+            "desc": "문장의 마지막 텍스트 정렬 방식을 설정합니다.",
+            "values": [
+                "auto",
+                "start",
+                "end",
+                "left",
+                "right",
+                "center",
+                "justify"
+            ],
+            "initial": "auto",
+            "syntax": "text-align-last: auto",
+            "descApple": "block containers",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "문장의 마지막 텍스트 정렬 방식을 설정합니다.",
+                "블록요소의 수평 정렬을 설정합니다."
+            ]
+        },
+        {
+            "num": 341,
+            "name": "text-combine-upright",
+            "desc": "문자 조합을 단일 문자 공간으로 설정합니다.",
+            "values": [
+                "none",
+                "all"
+            ],
+            "initial": "none",
+            "syntax": "text-combine-upright: none",
+            "descApple": "non-replaced inline elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "문자 조합을 단일 문자 공간으로 설정합니다.",
+                "결합된 텍스트가 1em보다 넓은 경우 사용자 에이전트는 1em 이내에 내용을 맞춰야 합니다.",
+                "이 속성은 세로 쓰기 모드에서만 효과가 있습니다."
+            ]
+        },
+        {
+            "num": 342,
+            "name": "text-decoration",
+            "desc": "텍스트에 장식용 선을 추가합니다.",
+            "values": [
+                "underline",
+                "overline <color>",
+                "none"
+            ],
+            "initial": "none",
+            "syntax": "text-decoration: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✦",
+            "definition": [
+                "텍스트에 장식용 선을 추가합니다.",
+                "text-decoration-line / text-decoration-color / text-decoration-style / text-decoration-thickness의 약어 입니다."
+            ]
+        },
+        {
+            "num": 343,
+            "name": "text-decoration-color",
+            "desc": "텍스트 라인의 색상을 설정합니다.",
+            "values": [
+                "<color>",
+                "currentcolor",
+                "transparent"
+            ],
+            "initial": "currentcolor",
+            "syntax": "text-decoration-color: red",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 라인의 색상을 설정합니다.",
+                "색상은 자산 가치 범위 내에서 밑줄, 윗줄, 취소선 및 철자를 표시하는 데 사용되는 물결선과 같은 장식에 적용됩니다."
+            ]
+        },
+        {
+            "num": 344,
+            "name": "text-decoration-line",
+            "desc": "밑줄이나 윗줄과 같이 요소의 텍스트에 사용되는 라인의 스타일을 설정합니다.",
+            "values": [
+                "none",
+                "underline",
+                "overline",
+                "line-through",
+                "blink"
+            ],
+            "initial": "none",
+            "syntax": "text-decoration-line: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "밑줄이나 윗줄과 같이 요소의 텍스트에 사용되는 라인의 스타일을 설정합니다.",
+                "text-decoration-line속성은 none또는 아래 목록에서 하나 이상의 공백으로 구분된 값으로 지정됩니다."
+            ]
+        },
+        {
+            "num": 345,
+            "name": "text-decoration-skip",
+            "desc": "텍스트의 장식(밑줄)이 일정 부분을 건너뛰어 중간에 끊어지도록 설정합니다.",
+            "values": [
+                "none",
+                "objects",
+                "spaces",
+                "edges",
+                "box-decoration"
+            ],
+            "initial": "objects",
+            "syntax": "text-decoration-skip: objects",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트의 장식(밑줄)이 일정 부분을 건너뛰어 중간에 끊어지도록 설정합니다.",
+                "요소가 그린 모든 텍스트 장식 라인과 그 부모가 그린 모든 텍스트 장식 라인을 제어합니다."
+            ]
+        },
+        {
+            "num": 346,
+            "name": "text-decoration-skip-ink",
+            "desc": "윗줄과 밑줄이 글리프 어센더 및 디센더를 전달할 때 그려지는 방법을 지정합니다.",
+            "values": [
+                "none",
+                "auto",
+                "all"
+            ],
+            "initial": "auto",
+            "syntax": "text-decoration-ink: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "윗줄과 밑줄이 글리프 어센더 및 디센더를 전달할 때 그려지는 방법을 지정합니다.",
+                "text-decoration-skip-ink속성은 text-decoration(약어)에 일부가 아닙니다."
+            ]
+        },
+        {
+            "num": 347,
+            "name": "text-decoration-style",
+            "desc": "글자 스타일을 정의합니다.",
+            "values": [
+                "solid",
+                "double",
+                "dotted",
+                "dashed",
+                "wavy"
+            ],
+            "initial": "solid",
+            "syntax": "text-decoration-style: solid",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "글자 스타일을 정의합니다.",
+                "한 번에 여러 줄 장식 속성을 설정할 때 text-decoration속기 속성을 대신 사용하는 것이 더 편리할 수 있습니다."
+            ]
+        },
+        {
+            "num": 348,
+            "name": "text-decoration-thickness",
+            "desc": "텍스트 장식(밑줄)의 굵기를 설정합니다.",
+            "values": [
+                "auto",
+                "from-font",
+                "<length>",
+                "<percentage>"
+            ],
+            "initial": "auto",
+            "syntax": "text-decoration-thickness: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 장식(밑줄)의 굵기를 설정합니다.",
+                "from-font는 글꼴 파일에 기본 두께에 대한 정보가 포함되어 있으면 해당 값을 적용됩니다."
+            ]
+        },
+        {
+            "num": 349,
+            "name": "text-emphasis",
+            "desc": "텍스트에 강조 표시를 적용합니다.",
+            "values": [
+                "none",
+                "<string>",
+                "filled",
+                "open"
+            ],
+            "initial": "none",
+            "syntax": "text-emphasis: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트에 강조 표시를 적용합니다.",
+                "강조 시 공백 및 제어문자 제외합니다."
+            ]
+        },
+        {
+            "num": 350,
+            "name": "text-emphasis-color",
+            "desc": "텍스트 강조 표시의 색상을 설정합니다.",
+            "values": [
+                "currentcolor",
+                "<color>"
+            ],
+            "initial": "currentcolor",
+            "syntax": "text-emphasis-color: #555",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 강조 표시의 색상을 설정합니다.",
+                "text-emphasis의 속기 설정으로 사용할 수 있습니다."
+            ]
+        },
+        {
+            "num": 351,
+            "name": "text-emphasis-position",
+            "desc": "텍스트 강조 표시의 위치를 설정합니다.",
+            "values": [
+                "over right",
+                "over left",
+                "under right",
+                "under left"
+            ],
+            "initial": "over right",
+            "syntax": "text-emphasis-position: over right",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 강조 표시의 위치를 설정합니다.",
+                "강조 표시를 위한 공간이 충분하지 않으면 줄 높이가 높아집니다."
+            ]
+        },
+        {
+            "num": 352,
+            "name": "text-emphasis-style",
+            "desc": "텍스트 강조 표시의 모양을 설정합니다.",
+            "values": [
+                "none",
+                "<string>",
+                "filled",
+                "open",
+                "dot",
+                "circle",
+                "double-circle",
+                "triangle",
+                "filled sesame",
+                "open sesame"
+            ],
+            "initial": "none",
+            "syntax": "text-emphasis-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 강조 표시의 모양을 설정합니다.",
+                "약식 을 사용하여 설정 및 재설정할 수도 있습니다."
+            ]
+        },
+        {
+            "num": 353,
+            "name": "text-indent",
+            "desc": "문단의 들여쓰기 길이를 지정합니다.",
+            "values": [
+                "<length>",
+                "<percentage>",
+                "each-line",
+                "hanging"
+            ],
+            "initial": "0",
+            "syntax": "text-indent: 5em hanging",
+            "descApple": "block containers",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "문단의 들여쓰기 길이를 지정합니다.",
+                "가로 간격은 포함하는 블록 수준 요소의 콘텐츠 상자의 왼쪽(또는 오른쪽에서 왼쪽 레이아웃의 경우 오른쪽) 가장자리를 기준으로 합니다."
+            ]
+        },
+        {
+            "num": 354,
+            "name": "text-justify",
+            "desc": "텍스트의 간격을 설정합니다.",
+            "values": [
+                "none",
+                "auto",
+                "inter-word",
+                "inter-character",
+                "distribute"
+            ],
+            "initial": "auto",
+            "syntax": "text-justify: auto",
+            "descApple": "inline-level",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트의 간격을 설정합니다.",
+                "auto설정 시 브라우저는 성능과 품질 간의 균형뿐만 아니라 텍스트 언어(예: 영어, CJK 언어 등)에 가장 적합한 것을 기반으로 현재 상황에 가장 적합한 유형을 선택합니다."
+            ]
+        },
+        {
+            "num": 355,
+            "name": "text-orientation",
+            "desc": "줄에서 텍스트 문자의 방향(수평, 수직)을 설정합니다.",
+            "values": [
+                "mixed",
+                "upright",
+                "sideways-right",
+                "sideways",
+                "use-glyph-orientation"
+            ],
+            "initial": "mixed",
+            "syntax": "text-orientation: mixed",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "줄에서 텍스트 문자의 방향(수평, 수직)을 설정합니다.",
+                "세로 모드의 텍스트에만 영향을 줍니다.",
+                "수직 스크립트를 사용하는 언어의 표시를 제어하고 수직 테이블 헤더를 만드는 데 유용합니다."
+            ]
+        },
+        {
+            "num": 356,
+            "name": "text-overflow",
+            "desc": "숨겨진 오버플로 콘텐츠가 사용자에게 신호되는 방식을 설정합니다.",
+            "values": [
+                "clip",
+                "ellipsis ellipsis",
+                "ellipsis"
+            ],
+            "initial": "clip",
+            "syntax": "text-overflow: clip",
+            "descApple": "block elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "숨겨진 오버플로 콘텐츠가 사용자에게 신호되는 방식을 설정합니다.",
+                "잘리거나 줄임표(' ')를 표시하거나 사용자 지정 문자열을 표시하여 넘치는 텍스트 처리 방법을 설정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 357,
+            "name": "text-rendering",
+            "desc": "텍스트를 렌더링할 때 최적화할 대상에 대한 정보를 렌더링 엔진에 제공합니다.",
+            "values": [
+                "auto",
+                "optimizeSpeed",
+                "optimizeLegibility",
+                "geometricPrecision"
+            ],
+            "initial": "auto",
+            "syntax": "text-rendering: auto",
+            "descApple": "text elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트를 렌더링할 때 최적화할 대상에 대한 정보를 렌더링 엔진에 제공합니다.",
+                "브라우저는 속도, 가독성 및 기하학적 정밀도 사이에서 균형을 유지합니다."
+            ]
+        },
+        {
+            "num": 358,
+            "name": "text-shadow",
+            "desc": "텍스트에 그림자를 설정합니다.",
+            "values": [
+                "none",
+                "offset-x | offset-y | blur-radius | color"
+            ],
+            "initial": "none",
+            "syntax": "text-shadow: 1px 1px 2px black",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✧",
+            "definition": [
+                "텍스트에 그림자를 설정합니다.",
+                "각 그림자는 색상, 흐림 반경 및 요소의 X 및 Y 오프셋 조합으로 설명됩니다."
+            ]
+        },
+        {
+            "num": 359,
+            "name": "text-size-adjust",
+            "desc": "일부 스마트폰 및 태블릿에서 사용되는 텍스트 인플레이션 알고리즘을 제어합니다.",
+            "values": [
+                "none",
+                "auto",
+                "<percentage>"
+            ],
+            "initial": "auto",
+            "syntax": "text-size-adjust: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "일부 스마트폰 및 태블릿에서 사용되는 텍스트 인플레이션 알고리즘을 제어합니다.",
+                "많은 웹 사이트가 소형 장치를 염두에 두고 개발되지 않았기 때문에 모바일 브라우저는 웹 페이지를 렌더링하는 방식이 데스크톱 브라우저와 다릅니다.",
+                "텍스트를 포함하는 요소가 화면 너비의 100%를 사용하는 경우 알고리즘은 레이아웃을 수정하지 않고 텍스트 크기를 늘립니다."
+            ]
+        },
+        {
+            "num": 360,
+            "name": "text-transform",
+            "desc": "텍스트를 모두 대문자 또는 소문자로 표시하거나, 각 단어를 대문자로 표시합니다.",
+            "values": [
+                "none",
+                "capitalize",
+                "uppercase",
+                "lowercase",
+                "full-width",
+                "full-size-kana"
+            ],
+            "initial": "none",
+            "syntax": "text-transform: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "텍스트를 모두 대문자 또는 소문자로 표시하거나, 각 단어를 대문자로 표시합니다.",
+                "가독성을 높이는 데 도움이 될 수 있습니다."
+            ]
+        },
+        {
+            "num": 361,
+            "name": "text-underline-offset",
+            "desc": "텍스트와 밑줄 사이의 거리를 설정합니다.",
+            "values": [
+                "auto",
+                "<length>",
+                "<percentage>"
+            ],
+            "initial": "auto",
+            "syntax": "text-underline-offset: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트와 밑줄 사이의 거리를 설정합니다.",
+                "요소에는 여러 text-decoration줄 이 있을 수 있지만 text-underline-offset밑줄에만 영향을 미치고 또는 와 같은 다른 가능한 선 장식 옵션 에는 영향을 미치지 않습니다."
+            ]
+        },
+        {
+            "num": 362,
+            "name": "text-underline-position",
+            "desc": "텍스트 밑줄의 방향(수평, 수직)을 ​​지정합니다.",
+            "values": [
+                "auto",
+                "under",
+                "left",
+                "right"
+            ],
+            "initial": "auto",
+            "syntax": "text-underline-position: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 밑줄의 방향(수평, 수직)을 ​​지정합니다.",
+                "auto속성 시 자체 알고리즘을 사용하여 알파벳 기준선 또는 그 아래에 선을 배치합니다."
+            ]
+        },
+        {
+            "num": 363,
+            "name": "top",
+            "desc": "요소의 위쪽 속성을 설정합니다.",
+            "values": [
+                "<length>",
+                "<percentage>",
+                "auto"
+            ],
+            "initial": "auto",
+            "syntax": "top: 3px",
+            "descApple": "positioned elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✦",
+            "definition": [
+                "요소의 위쪽 속성을 설정합니다.",
+                "포지션이 지정되지 않은 요소에는 영향을 주지 않습니다."
+            ]
+        },
+        {
+            "num": 364,
+            "name": "touch-action",
+            "desc": "터치스크린 사용자가 요소의 영역을 조작하는 방법(브라우저에 내장된 확대/축소 기능 등)을 설정합니다.",
+            "values": [
+                "auto",
+                "none",
+                "pan-x",
+                "pan-left",
+                "pan-right",
+                "pan-y",
+                "pan-up",
+                "pan-down",
+                "pan-zoom",
+                "manipulation"
+            ],
+            "initial": "auto",
+            "syntax": "touch-action: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "터치스크린 사용자가 요소의 영역을 조작하는 방법(브라우저에 내장된 확대/축소 기능 등)을 설정합니다.",
+                "기본적으로 패닝(스크롤링) 및 핀치 제스처는 브라우저에서만 처리됩니다."
+            ]
+        },
+        {
+            "num": 365,
+            "name": "transform",
+            "desc": "요소에 회전, 크기 조절, 기울이기, 이동 효과 등의 움직임을 부여합니다.",
+            "values": [
+                "none",
+                "matrix()",
+                "matrix3d()",
+                "perspective()",
+                "rotate()",
+                "rotate3d()",
+                "rotateX()",
+                "rotateY()",
+                "rotateZ()",
+                "translate()",
+                "translate3d()",
+                "translateX()",
+                "translateY()",
+                "translateZ()",
+                "scale()",
+                "scale3d()",
+                "scaleX()",
+                "scaleY()",
+                "scaleZ()",
+                "skew()",
+                "skewX()",
+                "skewY()"
+            ],
+            "initial": "none",
+            "syntax": "transform: none",
+            "descApple": "transformable elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✦",
+            "definition": [
+                "요소에 회전, 크기 조절, 기울이기, 이동 효과 등의 움직임을 부여합니다.",
+                "속성 은 transform키워드 값 none또는 하나 이상의 <transform-function>값으로 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 366,
+            "name": "transform-box",
+            "desc": "transform 및 transform-origin과 관련된 레이아웃 상자를 정의합니다.",
+            "values": [
+                "content-box",
+                "border-box",
+                "fill-box",
+                "stroke-box",
+                "view-box"
+            ],
+            "initial": "view-box",
+            "syntax": "transform-box: view-box",
+            "descApple": "transformable elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "transform 및 transform-origin과 관련된 레이아웃 상자를 정의합니다.",
+                "속성 은 transform키워드 값 none또는 하나 이상의 <transform-function>값으로 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 367,
+            "name": "transform-origin",
+            "desc": "요소 변형의 원점을 설정합니다.",
+            "values": [
+                "One-value syntax",
+                "x-offset",
+                "y-offset",
+                "offset-keyword",
+                "stroke-box",
+                "z-offset"
+            ],
+            "initial": "50% 50% 0",
+            "syntax": "transform-origin: 50% 50% 0",
+            "descApple": "transformable elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "요소 변형의 원점을 설정합니다.",
+                "변형 원점은 변형이 적용되는 지점입니다. 예를 들어, rotate()함수의 변환 원점은 회전 중심입니다."
+            ]
+        },
+        {
+            "num": 368,
+            "name": "transform-style",
+            "desc": "요소의 자식이 3D 공간에 배치되는지 또는 요소 평면에서 병합되는지 여부를 설정합니다.",
+            "values": [
+                "flat",
+                "preserve-3d"
+            ],
+            "initial": "flat",
+            "syntax": "transform-style: flat",
+            "descApple": "transformable elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "요소의 자식이 3D 공간에 배치되는지 또는 요소 평면에서 병합되는지 여부를 설정합니다.",
+                "평면화하면 요소의 자식은 3D 공간에서 자체적으로 존재하지 않습니다.",
+                "이 속성은 상속되지 않으므로 요소의 모든 비-리프 하위 항목에 대해 설정해야 합니다."
+            ]
+        },
+        {
+            "num": 369,
+            "name": "transition",
+            "desc": "요소의 두 가지 상태 사이에 전환 효과를 줍니다.",
+            "values": [
+                "property name",
+                "duration",
+                "delay",
+                "easing function",
+                "all"
+            ],
+            "initial": "all 0s 0s ease",
+            "syntax": "transition: all 0s 0s ease",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✦",
+            "definition": [
+                "요소의 두 가지 상태 사이에 전환 효과를 줍니다.",
+                "transition-property / transition-duration / transition-timing-function / transition-delay의 약식 속성입니다.",
+                ":hover / :active와 같이 동적인 상태일 때 설정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 370,
+            "name": "transition-delay",
+            "desc": "전환 애니메이션의 시간을 지연합니다.",
+            "values": [
+                "<time>"
+            ],
+            "initial": "0s",
+            "syntax": "transition-delay: 0s",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "전환 애니메이션의 시간을 지연합니다.",
+                "지연은 0, 양수 또는 음수일 수 있습니다.",
+                "양수 값은 주어진 시간 동안 전환 효과의 시작을 지연시키며 음수 값은 전환 효과를 즉시 시작하고 효과 중간에 시작합니다. 즉, 효과는 주어진 시간 동안 이미 실행된 것처럼 애니메이션됩니다."
+            ]
+        },
+        {
+            "num": 371,
+            "name": "transition-duration",
+            "desc": "전환 애니메이션이 완료되는데 걸리는 시간을 설정합니다.",
+            "values": [
+                "<time>"
+            ],
+            "initial": "0s",
+            "syntax": "transition-duration: 0s",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "전환 애니메이션이 완료되는데 걸리는 시간을 설정합니다.",
+                "지정된 기간보다 더 적은 기간이 지정된 경우 사용자 에이전트는 기간 목록을 반복합니다. 지속 시간이 더 있으면 목록이 올바른 크기로 잘립니다."            
+            ]
+        },
+        {
+            "num": 372,
+            "name": "transition-property",
+            "desc": "전환 효과의 적용 여부를 설정합니다.",
+            "values": [
+                "none",
+                "all",
+                "<custom-ident>"
+            ],
+            "initial": "all",
+            "syntax": "transition-property: all",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "전환 효과의 적용 여부를 설정합니다.",
+                "속기 속성(예: background)을 지정하면 애니메이션할 수 있는 모든 하위 속성이 됩니다."
+            ]
+        },
+        {
+            "num": 373,
+            "name": "transition-timing-function",
+            "desc": "전환 효과의 영향을 받는 CSS 속성에 대해 중간 값이 계산 되는 방식을 설정합니다.",
+            "values": [
+                "ease",
+                "ease-in",
+                "ease-out",
+                "ease-out",
+                "ease-in-out",
+                "linear",
+                "step-start",
+                "step-end",
+                "cubic-bezier()",
+                "steps()"
+            ],
+            "initial": "ease",
+            "syntax": "transition-property: ease",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "전환 효과의 영향을 받는 CSS 속성에 대해 중간 값이 계산 되는 방식을 설정합니다.",
+                "전환 속성에 대해 하나씩 있을 때까지 값 목록을 반복하여 사용되는 값을 계산해야 합니다."
+            ]
+        },
+        {
+            "num": 374,
+            "name": "translate",
+            "desc": "변환 속성에 구애받지 않고 개별적인 변환 방법(translation transforms)을 지정할 수 있습니다.",
+            "values": [
+                "none",
+                "<length>"
+            ],
+            "initial": "none",
+            "syntax": "translate: 100px 200px",
+            "descApple": "transformable elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✧",
+            "definition": [
+                "변환 속성에 구애받지 않고 개별적인 변환 방법(translation transforms)을 지정할 수 있습니다.",
+                "일반적인 사용자 인터페이스 사용에 더 잘 매핑되며 값 에 지정하기 위해 변환 함수의 정확한 순서를 기억할 필요가 없습니다."
+            ]
+        },
+        {
+            "num": 375,
+            "name": "unicode-bidi",
+            "desc": "문서의 양방향 텍스트가 표시되는 방식을 결정합니다.",
+            "values": [
+                "normal",
+                "embed",
+                "isolate",
+                "bidi-override",
+                "isolate-override",
+                "plaintext"
+            ],
+            "initial": "normal",
+            "syntax": "unicode-bidi: normal",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "문서의 양방향 텍스트가 표시되는 방식을 결정합니다.",
+                "콘텐츠 블록에 왼쪽에서 오른쪽 및 오른쪽에서 왼쪽 텍스트가 모두 포함된 경우 사용자 에이전트는 복잡한 유니코드 알고리즘을 사용하여 텍스트를 표시하는 방법을 결정합니다."
+            ]
+        },
+        {
+            "num": 376,
+            "name": "user-select",
+            "desc": "사용자가 텍스트를 선택할 수 있는지에 대해 지정합니다.",
+            "values": [
+                "none",
+                "auto",
+                "text",
+                "contain",
+                "all"
+            ],
+            "initial": "auto",
+            "syntax": "user-select: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "사용자가 텍스트를 선택할 수 있는지에 대해 지정합니다.",
+                "텍스트 상자를 제외하고 브라우저의 사용자 인터페이스( chrome ) 의 일부로 로드된 콘텐츠에는 영향을 미치지 않습니다."
+            ]
+        },
+        {
+            "num": 377,
+            "name": "vertical-align",
+            "desc": "inline 또는 table-cell box에서의 수직 정렬을 지정합니다.",
+            "values": [
+                "baseline",
+                "sub",
+                "super",
+                "text-top",
+                "text-bottom",
+                "middle",
+                "top",
+                "bottom",
+                "<length>",
+                "<percentage>"
+            ],
+            "initial": "baseline",
+            "syntax": "vertical-align: baseline",
+            "descApple": "inline-level table-cell",
             "descVer": "CSS3",
             "descStar": "✦ ✦ ✦ ✧ ✧",
             "definition": [
-                "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
-                "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다."
+                "inline 또는 table-cell box에서의 수직 정렬을 지정합니다.",
+                "블록요소에서는 적용되지 않습니다."
+            ]
+        },
+        {
+            "num": 378,
+            "name": "visibility",
+            "desc": "문서의 레이아웃을 변경하지 않고 요소를 보이거나 숨깁니다.",
+            "values": [
+                "visible",
+                "hidden",
+                "collapse"
+            ],
+            "initial": "visible",
+            "syntax": "visibility: visible",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "문서의 레이아웃을 변경하지 않고 요소를 보이거나 숨깁니다.",
+                "<table>속성은 에서 행이나 열을 숨길 수도 있습니다."
+            ]
+        },
+        {
+            "num": 379,
+            "name": "white-space",
+            "desc": "요소가 공백 문자를 처리하는 법(공백, 줄바꿈 속성)을 지정합니다.",
+            "values": [
+                "normal",
+                "nowrap",
+                "pre",
+                "pre-wrap",
+                "pre-line",
+                "break-spaces"
+            ],
+            "initial": "normal",
+            "syntax": "white-space: normal",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "요소가 공백 문자를 처리하는 법(공백, 줄바꿈 속성)을 지정합니다.",
+                "공백이 축소 되는지 여부와 방법과 소프트 랩 기회에서 줄이 줄 바꿈될 수 있는지 여부를 지정합니다."
+            ]
+        },
+        {
+            "num": 380,
+            "name": "widows",
+            "desc": "페이지, 영역 또는 열의 상단에 표시되어야 하는 블록 컨테이너의 최소 줄 수를 설정합니다.",
+            "values": [
+                "<integer>"
+            ],
+            "initial": "2",
+            "syntax": "widows: 2",
+            "descApple": "block elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "페이지, 영역 또는 열의 상단에 표시되어야 하는 블록 컨테이너의 최소 줄 수를 설정합니다.",
+                "타이포그래피에서 widows는 페이지 상단에 단독으로 나타나는 단락의 마지막 줄입니다."
+            ]
+        },
+        {
+            "num": 381,
+            "name": "width",
+            "desc": "요소의 가로 값을 정의합니다.",
+            "values": [
+                "<length>",
+                "<percentage>",
+                "max-content",
+                "min-content",
+                "fit-content()",
+                "auto"
+            ],
+            "initial": "auto",
+            "syntax": "width: 100%",
+            "descApple": "block elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✦",
+            "definition": [
+                "요소의 가로 값을 정의합니다.",
+                "기본적으로 콘텐츠 영역 의 너비를 설정 하지만 box-sizing로 설정하면 테두리 영역 border-box의 너비를 설정합니다."
+            ]
+        },
+        {
+            "num": 382,
+            "name": "word-break",
+            "desc": "요소에 예상되는 변화의 종류에 관한 힌트를 브라우저에 제공하도록 합니다.",
+            "values": [
+                "auto",
+                "scroll-position",
+                "contents",
+                "transform",
+                "opacity",
+                "left, top"
+            ],
+            "initial": "auto",
+            "syntax": "will-change: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "요소에 예상되는 변화의 종류에 관한 힌트를 브라우저에 제공하도록 합니다.",
+                "브라우저는 요소가 실제로 변경되기 전에 최적화를 설정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 383,
+            "name": "word-break",
+            "desc": "텍스트가 자신의 콘텐츠 박스 밖으로 오버플로 할 때 줄바꿈 속성을 설정합니다.",
+            "values": [
+                "normal",
+                "break-all",
+                "keep-all",
+                "break-word"
+            ],
+            "initial": "normal",
+            "syntax": "word-break: normal",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✧ ✧",
+            "definition": [
+                "텍스트가 자신의 콘텐츠 박스 밖으로 오버플로 할 때 줄바꿈 속성을 설정합니다.",
+                "normal 설정 시 기본 줄 바꿈 규칙을 사용합니다."
+            ]
+        },
+        {
+            "num": 384,
+            "name": "word-spacing",
+            "desc": "단어와 단어 사이, 태그와 태그 사이의 거리를 설정합니다.",
+            "values": [
+                "normal",
+                "<length>"
+            ],
+            "initial": "normal",
+            "syntax": "word-spacing: normal",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✧ ✧ ✧",
+            "definition": [
+                "단어와 단어 사이, 태그와 태그 사이의 거리를 설정합니다.",
+                "normal 설정 시 현재 글꼴 및/또는 브라우저에서 정의한 일반적인 단어 간 간격으로 적용됩니다."
+            ]
+        },
+        {
+            "num": 385,
+            "name": "writing-mode",
+            "desc": "텍스트 줄의 가로 세로 배치 방법와 블록이 진행되는 방향을 설정합니다.",
+            "values": [
+                "horizontal-tb",
+                "vertical-rl",
+                "vertical-lr"
+            ],
+            "initial": "horizontal-tb",
+            "syntax": "writing-mode: horizontal-tb",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✧ ✧ ✧ ✧",
+            "definition": [
+                "텍스트 줄의 가로 세로 배치 방법와 블록이 진행되는 방향을 설정합니다.",
+                "가로 스크립트의 흐름 방향은 왼쪽에서 오른쪽으로 또는 오른쪽에서 왼쪽입니다."
+            ]
+        },
+        {
+            "num": 386,
+            "name": "z-index",
+            "desc": "요소들의 위치가 겹칠 경우, Z축(화면에 뜨는) 순서를 정의합니다.",
+            "values": [
+                "auto",
+                "<integer>"
+            ],
+            "initial": "auto",
+            "syntax": "z-index: 1",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "✦ ✦ ✦ ✦ ✧",
+            "definition": [
+                "요소들의 위치가 겹칠 경우, Z축(화면에 뜨는) 순서를 정의합니다.",
+                "더 큰 z-인덱스가 있는 겹치는 요소는 더 작은 z-인덱스를 포함합니다."
             ]
         }
     ]
