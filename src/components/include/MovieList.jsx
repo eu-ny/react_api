@@ -1,6 +1,6 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination, Autoplay } from "swiper";
+import { Navigation, Autoplay } from "swiper";
 
 import "swiper/css";
 import "swiper/css/navigation";
@@ -11,15 +11,13 @@ const MovieListInfo = ({rank, id, poster_path, title}) => {
     return (
         <li>
             <a href={`https://www.themoviedb.org/movie/${id}`}>
-                <div className="imgBox">
+                <figure className="imgBox">
                     <span className="rank">{rank + 1}</span>
-                    <div className="movieListimgBox">
                         <img
                             src={`https://image.tmdb.org/t/p/w500/${poster_path}`}
                             alt={title}
                         />
-                    </div>
-                </div>
+                </figure>
                 <em>
                     <span className="title">{title}</span>
                 </em>
