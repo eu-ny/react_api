@@ -3,10 +3,12 @@
   left: 0;
   top: 0;
   width: 100%;
+  background-color: var(--black);
   border-bottom: 1px solid var(--bg-dark-border);
   display: flex;
   align-items: center;
   padding: 0 10px;
+  z-index: 10000;
 
   .header__left {
     flex: 1 1 40%;
