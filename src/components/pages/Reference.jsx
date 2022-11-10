@@ -13,7 +13,7 @@ import Contact from "../layout/Contact";
 
 //리액트 훅 기능
 const Reference = () => {
-    const [references, setReference] = useState([]);
+    const [references, setReference] = useState([]); //배열사용
 
     useEffect(() => {
         fetch("https://eu-ny.github.io/react_api/src/utils/referenec.json")
