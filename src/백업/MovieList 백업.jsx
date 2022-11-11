@@ -1,26 +1,28 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectCoverflow, Pagination, Autoplay } from "swiper"
+import { Navigation, Autoplay } from "swiper";
 
 import "swiper/css";
-import "swiper/css/effect-coverflow";
+import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 // 08. 밑에서 가져온 데이터 컴포넌트 만들기.
 const MovieListInfo = ({rank, id, poster_path, title}) => {
     return (
-        <a href={`https://www.themoviedb.org/movie/${id}`}>
-            <figure className="imgBox">
-            <span className="rank">{rank + 1}</span>
-                <img
-                    src={`https://image.tmdb.org/t/p/w500/${poster_path}`}
-                    alt={title}
-                />
-            </figure>
-            <em>
-                <span className="title">{title}</span>
-            </em>
-        </a>
+        <li>
+            <a href={`https://www.themoviedb.org/movie/${id}`}>
+                <figure className="imgBox">
+                    <span className="rank">{rank + 1}</span>
+                        <img
+                            src={`https://image.tmdb.org/t/p/w500/${poster_path}`}
+                            alt={title}
+                        />
+                </figure>
+                <em>
+                    <span className="title">{title}</span>
+                </em>
+            </a>
+        </li>
     );
 }
 
@@ -37,23 +39,14 @@ const MovieList = ({lists}) => {
                         ))}
                     </ul> */}
                     <Swiper
-                        effect={"coverflow"}
-                        grabCursor={true}
-                        centeredSlides={true}
-                        slidesPerView={"auto"}
-                        coverflowEffect={{
-                            rotate: 50,
-                            stretch: 0,
-                            depth: 100,
-                            modifier: 1,
-                            slideShadows: false,
-                        }}
+                        slidesPerView={3}
                         autoplay={{
-                            delay: 2500,
+                            delay: 3000,
                             disableOnInteraction: false,
                         }}
-                        pagination={false}
-                        modules={[EffectCoverflow, Pagination, Autoplay]}
+                        navigation={true}
+                        pagination={{ clickable: true }}
+                        modules={[Navigation, Autoplay]}
                         className="mySwiper"
                     >
                             {lists.map((list, index) => (

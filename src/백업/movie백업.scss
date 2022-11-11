@@ -82,60 +82,66 @@
     margin-bottom: 120px;
 
     .movieList__inner {
-        a {
-            color: var(--white);
-            
-            .imgBox {
-                transition: all 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
-                
-                &:hover {
-                    transform: scale(1.1);
-        
-                    .rank {
-                        transform: scale(1.1);
-                        opacity: 1;
-        
-                    }
-                }
+        // padding: 2vw;
+        // scroll-snap-type: x mandatory;
 
-                .rank {
-                    position: absolute;
-                    top: -38px;
-                    left: 20px;
-                    height: 4vw;
-                    width: 3vw;
-                    text-align: center;
-                    line-height: 4vw;
-                    font-size: 6vw;
-                    font-family: var(--font-sub1);
-                    opacity: 0.7;
+        .movieRank {
+            display: flex;
+            justify-content: center;
+            // overflow-x: scroll;
+
+            li {
+                margin: 0 3vw;
+                position: relative;
+
+                a {
+                    color: var(--white);
+
+                    .imgBox {
+                        transition: all 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
+
+                        &:hover {
+                            transform: scale(1.1);
+                        }
+
+                        img {
+                            width: 20vw;
+                            margin: 20px 0;
+                            border-radius: 10px;
+                        }
     
-                }
+                        .rank {
+                            position: absolute;
+                            top: 10px;
+                            left: 20px;
+                            height: 4vw;
+                            width: 3vw;
+                            background: #000;
+                            text-align: center;
+                            line-height: 4vw;
+                            font-size: 20px;
+                            font-family: var(--font-sub2);
+                        }
 
-                img {
-                  display: block;
-                }
+                    }
 
-            }
+                    em {
+                        display: block;
+                        margin-bottom: 80px;
+                        font-family: var(--font-sub3);
+                        text-align: center;
 
-            em {
-                display: block;
-                margin-bottom: 80px;
-                font-family: var(--font-sub3);
-                text-align: center;
-
-                .title {
-                    padding: 5px 0;
-                    display: inline-block;
+                        .title {
+                            padding: 5px 0;
+                            display: inline-block;
+                        }
+                    }
                 }
             }
         }
     }
 }
 
-.swiper.swiper-coverflow.swiper-3d.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-watch-progress.mySwiper {
-    padding-top: 120px;
-}
-.swiper-slide {
-    width: 30% !important;
+.swiper-button-next, .swiper-button-prev {
+    color: #fff !important;
 }

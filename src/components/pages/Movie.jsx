@@ -14,9 +14,9 @@ const Movie = () => {
 	// 04. 콜백함수를 통해 밑에 setLists에 저장한 값을 다시 lists로 보내고 저장한 뒤 
 	const [lists, setLists] = useState([]);
 
-	const search = (query) => {
+	const search = async (query) => {
 		//클릭한 키워드를 매개변수로 전달 , 자바스크립트로 데이터 가져오는 방법
-		fetch(`https://api.themoviedb.org/3/search/movie?api_key=25ea29c228b2fc90f5b08707dd1c8828&query=${query}`)
+		await fetch(`https://api.themoviedb.org/3/search/movie?api_key=25ea29c228b2fc90f5b08707dd1c8828&query=${query}`)
 
 		.then((response) => response.json())
 		.then((result) => setMovies(result.results))
