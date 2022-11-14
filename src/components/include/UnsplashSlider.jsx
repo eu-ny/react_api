@@ -1,19 +1,18 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectCoverflow, Pagination, Autoplay } from "swiper";
+import { Navigation, Autoplay } from "swiper";
 
 import "swiper/css";
-import "swiper/css/effect-coverflow";
+import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const UnsplashSliderItem = ({ random }) => {
     return (
-        <a href={`https://www.themoviedb.org/movie/${random.id}`}>
+        <a href={`https://unsplash.com/photos/${random.id}`}>
             <figure className="imgBox">
-                <span className="rank">{random.rank + 1}</span>
                 <img
-                    src={`https://image.tmdb.org/t/p/w500/${random.poster_path}`}
-                    alt={random.title}
+                    src={random.urls.regular}
+                    alt={random.urls.alt_description}
                 />
             </figure>
             <em>
@@ -25,37 +24,26 @@ const UnsplashSliderItem = ({ random }) => {
 
 const UnsplashSlider = ({ random }) => {
     return (
-        <div className="movie__pop">
+        <div className="Unsplash__pop">
             <div className="container">
-                <div className="movieList__inner">
-                    <Swiper
-                        effect={"coverflow"}
-                        grabCursor={true}
-                        centeredSlides={true}
-                        slidesPerView={"auto"}
-                        coverflowEffect={{
-                            rotate: 50,
-                            stretch: 0,
-                            depth: 100,
-                            modifier: 1,
-                            slideShadows: false,
-                        }}
+                <div className="UnsplashList__inner">
+                <Swiper
+                        slidesPerView={3}
                         autoplay={{
-                            delay: 2500,
+                            delay: 3000,
                             disableOnInteraction: false,
                         }}
-                        pagination={false}
-                        modules={[EffectCoverflow, Pagination, Autoplay]}
+                        navigation={true}
+                        pagination={{ clickable: true }}
+                        modules={[Navigation, Autoplay]}
                         className="mySwiper"
                     >
-                        {random.map((list, index) => (
-                            <SwiperSlide className="movieRank">
+                        {random.map((random, index) => (
+                            <SwiperSlide>
                                 <UnsplashSliderItem
                                     key={index}
                                     rank={index}
-                                    id={list.id}
-                                    poster_path={list.poster_path}
-                                    title={list.title}
+                                    random={random}
                                 />
                             </SwiperSlide>
                         ))}

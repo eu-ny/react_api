@@ -18,7 +18,7 @@ function UnsplashCont({ images }) {
         <section className="cont__unsplash">
             <div className="container">
                 <div className="unsplash__inner">
-                    <ul>
+                    <ul>                                                                                                                
                         {images.map((images, index) => (
                             <UnsplashInner key={index} image={images} />
                         ))}

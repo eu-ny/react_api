@@ -11,23 +11,33 @@ import { useState, useEffect } from 'react';
 
 const Youtube = () => {
     const [youtube, setyoutube] = useState([]);
+    const [random, setrandom] = useState([]);
 
     const search = async (query) => {
       //클릭한 키워드를 매개변수로 전달 , 자바스크립트로 데이터 가져오는 방법
       await fetch(`https://youtube.googleapis.com/youtube/v3/search?key=AIzaSyARpIi7wYT1We05k6mliszOp-gkXK-eR2c&part=snippet&maxResults=30&type=video&q=${query}`)
   
       .then((response) => response.json())
-      .then(result => console.log(result.items))
-      // .then((result) => setImages(result.results))
+    //   .then(result => console.log(result.items))
+      .then((result) => setyoutube(result.items))
       .catch(error => console.log(error))
     };
 
     useEffect(() => {
         fetch(
-            "https://youtube.googleapis.com/youtube/v3/search?key=AIzaSyARpIi7wYT1We05k6mliszOp-gkXK-eR2c&part=snippet&maxResults=30&type=video&q=music")
+            // "https://youtube.googleapis.com/youtube/v3/search?key=AIzaSyARpIi7wYT1We05k6mliszOp-gkXK-eR2c&part=snippet&maxResults=30&type=video&q=music")
+            "https://eu-ny.github.io/react_api/src/utils/youtube.json")
             .then((response) => response.json())
             // .then(result => console.log(result))
             .then((result) => setyoutube(result.items))
+            .catch((error) => console.log("error", error));
+
+        fetch(
+            // "https://youtube.googleapis.com/youtube/v3/search?key=AIzaSyARpIi7wYT1We05k6mliszOp-gkXK-eR2c&part=snippet&maxResults=30&type=video&q=music")
+            "https://eu-ny.github.io/react_api/src/utils/youtube.json")
+            .then((response) => response.json())
+            // .then(result => console.log(result))
+            .then((result) => setrandom(result.items))
             .catch((error) => console.log("error", error));
     }, []);
 
@@ -35,7 +45,7 @@ const Youtube = () => {
         <>
             <Header />
             <Title title={["Youtube", "Youtube api"]} />
-            <YoutubeSlider />
+            <YoutubeSlider random={random} />
             <YoutubeSearch onSearch={search} />
             <YoutubeCont youtube={youtube} />
             <Contents />
