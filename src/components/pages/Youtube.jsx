@@ -5,6 +5,7 @@ import Contents from "../layout/Contents";
 import YoutubeCont from "../include/YoutubeCont";
 import YoutubeSlider from "../include/YoutubeSlider";
 import YoutubeSearch from "../include/YoutubeSearch";
+import Youtubebtn from "../include/Youtubebtn";
 import Footer from "../layout/Footer";
 import Contact from "../layout/Contact";
 import { useState, useEffect } from 'react';
@@ -47,6 +48,7 @@ const Youtube = () => {
             <Title title={["Youtube", "Youtube api"]} />
             <YoutubeSlider random={random} />
             <YoutubeSearch onSearch={search} />
+            <Youtubebtn onSearch={search} />
             <YoutubeCont youtube={youtube} />
             <Contents />
             <Contact />
