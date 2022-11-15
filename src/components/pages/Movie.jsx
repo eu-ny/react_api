@@ -6,6 +6,7 @@ import Footer from "../layout/Footer";
 import Title from "../layout/Title";
 import MovieCont from "../include/MovieCont";
 import MovieList from "../include/MovieList";
+import MovieBtn from "../include/MovieBtn";
 import MovieSearch from "../include/MovieSearch";
 import Contact from "../layout/Contact";
 
@@ -48,6 +49,7 @@ const Movie = () => {
 			{/* 05. MovieList에 매개변수로 값을 보냄  / 9. 데이터 뿌려준 후 정상으로 MovieList의 컨텐츠가 include 된다면 성공! */}
 			<MovieList lists={lists} />
 			<MovieSearch onSearch={search} />
+			<MovieBtn onSearch={search} />
 			<MovieCont movies={movies} />
 			<Contact />
             <Contents />
