@@ -1,4 +1,5 @@
 .cont__youtube {
+    margin-bottom: 120px;
 
     .youtube__inner {
         
@@ -22,19 +23,21 @@
 
                 img {
                     border-radius: 5px;
+                    object-fit: cover;
                 }
             }
         }
     }
 }
 
-.cont__youtube {
-    margin-bottom: 120px;
+// .cont__youtube {
+//     margin-bottom: 120px;
 
-    img {
-        object-fit: cover;
-    }
-}
+//     img {
+//         object-fit: cover;
+
+//     }
+// }
 .swiper-pagination {
     position: static !important;
     margin-top: 30px;

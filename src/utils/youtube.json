@@ -1,1032 +1,1032 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "uFyDPlYVClDpPttX8Fp_c4W2QrM",
-    "nextPageToken": "CB4QAA",
-    "regionCode": "US",
-    "pageInfo": {
-      "totalResults": 1754,
+  "kind": "youtube#searchListResponse",
+  "etag": "oBfjD1V9JCmZzB7R-PaEafRWTK4",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "US",
+  "pageInfo": {
+      "totalResults": 1000000,
       "resultsPerPage": 30
-    },
-    "items": [
+  },
+  "items": [
       {
-        "kind": "youtube#searchResult",
-        "etag": "75JD70__dyEmC_k5qvQE0tACQaQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "EfasNM04Erk"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-13T05:44:01Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "01. 메가박스 사이트 만들기 - 기본 셋팅",
-          "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/EfasNM04Erk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/EfasNM04Erk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/EfasNM04Erk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "GM5dqJc_ZZgORCu7_VWqkjVp1LA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QOBNHWC8Jdk"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-13T05:44:01Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T13:30:09Z",
+              "channelId": "UCz4V_czcGngq3dC39UjDfbQ",
+              "title": "Rock Playlist | Top 20 Best Rock Hits 80s and 90s | Rock Music Access The Most Charts",
+              "description": "Rock Playlist | Top 20 Best Rock Hits 80s and 90s | Rock Music Access The Most Charts Rock Playlist | Top 20 Best Rock Hits 80s ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QOBNHWC8Jdk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QOBNHWC8Jdk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QOBNHWC8Jdk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Classic Rock Music",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T13:30:09Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "G_8JFpVjVMaZauumsOEqL6xpRog",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "nuQmKD21XKQ"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-06T04:46:40Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "포트폴리오 어떻게 만들어야 할까? - 프론트앤드 개발자 취업 인터뷰 #전현정 #조서은 | 웹 퍼블리셔 | 프론트앤드 개발자",
-          "description": "스터디 프론트앤드 개발자의 취업 인터뷰입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "20yUaTCKe8HZXuBE56l7h-mJxDA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FNWTdje8t78"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-06T04:46:40Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T12:00:12Z",
+              "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+              "title": "Bach - Classical Music for Studying &amp; Brain Power",
+              "description": "Buy the MP3 album on the Official Halidon Music Store: http://bit.ly/3TA5YGJ Listen to our playlist on Spotify: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FNWTdje8t78/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FNWTdje8t78/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FNWTdje8t78/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HALIDONMUSIC",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T12:00:12Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "KismI2IxhLvHZALO9eTOGj2noYY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "ayF6RPYBBqM"
-        },
-        "snippet": {
-          "publishedAt": "2020-04-18T01:00:00Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; webstoryboy",
-          "description": "포트폴리오 어떻게 만들어야 할까? 스터디에서 포트폴리오 만들기부터 취업하는 방법까지의 인터뷰입니다. ** 포트폴리오 리뷰 자신 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "mHS9DTj0kcdihPfofG38rSMQPfY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "l-M0QLHyQbE"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-04-18T01:00:00Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T15:17:01Z",
+              "channelId": "UCQINXHZqCU5i06HzxRkujfg",
+              "title": "火曜コーヒー: Good Mood November Autumn Music - Cozy Jazz Instrumental Music to Chill Out",
+              "description": "Please Subscribe! → https://www.youtube.com/user/bgmchannelbgm Listen on Spotify, Apple Music, and more → BGM ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/l-M0QLHyQbE/default_live.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/l-M0QLHyQbE/mqdefault_live.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/l-M0QLHyQbE/hqdefault_live.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BGM channel",
+              "liveBroadcastContent": "live",
+              "publishTime": "2022-11-14T15:17:01Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "5j5QUOf0dw4mKEPYFCLlKLkX0yE",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "aMdp43ocpWA"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-13T04:54:30Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "00. 메가박스 사이트 만들기 - 이제 시작합니다.^^ 화이팅",
-          "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/aMdp43ocpWA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/aMdp43ocpWA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/aMdp43ocpWA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "tfFqhZiZXIKJ8-_F3eUFuGsJxbk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Y5p0wZENYcU"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-13T04:54:30Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T23:09:43Z",
+              "channelId": "UCJkavOmVQ9vwss_Vo8spFFQ",
+              "title": "𝑺𝒕𝒂𝒓𝒃𝒖𝒄𝒌𝒔 𝑴𝒖𝒔𝒊𝒄: ☕ 星巴克音樂 🥤 放松爵士乐睡眠，放松，咖啡 - 积极爵士乐 - Energy Morning With Starbucks Music",
+              "description": "Starbucks Music: ☕ 星巴克音樂   放松爵士乐睡眠，放松，咖啡- 积极爵士乐- Energy Morning With Starbucks Music ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Y5p0wZENYcU/default_live.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Y5p0wZENYcU/mqdefault_live.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Y5p0wZENYcU/hqdefault_live.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Joy Music - Jazz Taiwan",
+              "liveBroadcastContent": "live",
+              "publishTime": "2022-11-14T23:09:43Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "fP_Ktk0UGhmxfLCx30x5aKXvQNQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "Zs9DQA-jy8s"
-        },
-        "snippet": {
-          "publishedAt": "2019-12-10T23:00:06Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; 웹스토리보이",
-          "description": "포트폴리오 인터뷰 영상입니다. 웹 퍼블리셔를 준비하는 과정부터 사이트를 만드는 과정을 인터뷰 영상으로 담았습니다. 현재는 웹 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "OR2ka_QQwJsHnAJ1aE69CSJOf0E",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "iUVNspaiBAo"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-12-10T23:00:06Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-10-10T02:47:11Z",
+              "channelId": "UCFIsW2c65LNGTxpLE5q4mnA",
+              "title": "Music to put you in a better mood ~ Study music - lofi / relax / stress relief",
+              "description": "Music to put you in a better mood ~ Study music - lofi / relax / stress relief My channel specializes in: - Relaxed driving, Relaxed ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/iUVNspaiBAo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/iUVNspaiBAo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/iUVNspaiBAo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Lofi Zone",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-10T02:47:11Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "u_6l1E70e1aLrYqw1ZGtP8dk_HM",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "QuUQj9E29CI"
-        },
-        "snippet": {
-          "publishedAt": "2019-07-29T09:38:22Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "15. 웹디자인 기능사 따라하면 딴다 - 실전사이트 만들기1-1",
-          "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/QuUQj9E29CI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/QuUQj9E29CI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/QuUQj9E29CI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "A7yRuR0-CQgxB0dSWB8YLFcBJjk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "eRI7_JMArwA"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-07-29T09:38:22Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-08-28T08:36:18Z",
+              "channelId": "UCIitwYtRrd2JGTTe1B0IAJA",
+              "title": "Music Mix 2022 🎧 EDM Remixes of Popular Songs 🎧 EDM Gaming Music Mix ​",
+              "description": "Music Mix 2022 EDM Remixes of Popular Songs EDM Gaming Music Mix ​ Listen on Spotify / Apple / Youtube ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/eRI7_JMArwA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/eRI7_JMArwA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/eRI7_JMArwA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Magic Music Mix",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-08-28T08:36:18Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "WYzae7qTz_qEw-lJM7sGyDTePzY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "tHy498wdPaA"
-        },
-        "snippet": {
-          "publishedAt": "2018-11-11T11:03:03Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "01. 웹 표준 사이트 만들기(2019) - layout01",
-          "description": "웹 표준 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/tHy498wdPaA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/tHy498wdPaA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/tHy498wdPaA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "mTk3KKIWOH79Rnyod0l0N8ck2FU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "GUQFQiYWc7E"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2018-11-11T11:03:03Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-09-18T10:00:08Z",
+              "channelId": "UCgsTgyATKBhaRzh69swGdIQ",
+              "title": "Songs make you sing out loud ~ Familiar songs that make you sing along",
+              "description": "Songs make you sing out loud ~ Familiar songs that make you sing along #ACvibes #singoutloud #singalong ✌ Hi guys, every ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/GUQFQiYWc7E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/GUQFQiYWc7E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/GUQFQiYWc7E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "A.C Vibes",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-09-18T10:00:08Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "yWEkBFRwS4zsKIS37iHbid7Nkz4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "hSY_lqWW3ew"
-        },
-        "snippet": {
-          "publishedAt": "2020-01-09T23:46:10Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "02. 피그마(figma)와 제플린(Zeplin)을 이용한 모바일 사이트 만들기",
-          "description": "피그마(figna)를 이용한 모바일 웹 만들기 프로젝트입니다. 피그마를 통해 프로토타입을 만들고 제플린과 함께 모바일 웹을 만드는 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "hmsoPWmCKmz9NGKoJtg-ioBf8aU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dh01eSOn9_E"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-01-09T23:46:10Z"
-        }
+          "snippet": {
+              "publishedAt": "2020-08-20T14:30:42Z",
+              "channelId": "UCp6_KuNhT0kcFk-jXw9Tivg",
+              "title": "Best Music Mix ♫ No Copyright Gaming Music ♫ Music by Roy Knox and Friends",
+              "description": "Best Music Mix ♫ No Copyright Gaming Music ♫ Music by Roy Knox and Friends Stream Now: https://lnk.to/remixplaylistYT ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dh01eSOn9_E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dh01eSOn9_E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dh01eSOn9_E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Magic Music",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-08-20T14:30:42Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "5txkBDg04dVayyg7g2jkk7RQZSo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "meOS_IwS2JY"
-        },
-        "snippet": {
-          "publishedAt": "2019-06-14T00:00:05Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "02. 웹디자인 기능사 따라하면 딴다 - 레이아웃1_1 | 웹스토리보이",
-          "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/meOS_IwS2JY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/meOS_IwS2JY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/meOS_IwS2JY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "3kJ6VUX2SAPvxB5z5XfBYcM8at4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "_uNxTB8frG4"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-06-14T00:00:05Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T08:00:14Z",
+              "channelId": "UC_oeV58JVVXtxxs09oK1dLg",
+              "title": "ＮＥＥＤ ＦＯＲ ＳＰＥＥＤ - PHONK MIX FOR NIGHT DRIVE - BEST LXST CXNTURY TYPE - 3 HOUR JDM CAR MUSIC 2022",
+              "description": "ＮＥＥＤ ＦＯＲ ＳＰＥＥＤ - PHONK MIX FOR NIGHT DRIVE - BEST LXST CXNTURY TYPE - 3 HOUR JDM CAR MUSIC 2022 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_uNxTB8frG4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_uNxTB8frG4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_uNxTB8frG4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Chill Beat",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T08:00:14Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "JEmcNlqT63-6Mau7bFZzPxtyN2Q",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "2anoDop4Ahk"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-13T07:04:35Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "02. 메가박스 사이트 만들기 - 헤더 영역",
-          "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/2anoDop4Ahk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/2anoDop4Ahk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/2anoDop4Ahk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "R_aiIwJKGUxgs1C7RlbOvQ4qi_c",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "LzSJkpMHDYc"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-13T07:04:35Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-03-11T22:30:01Z",
+              "channelId": "UCDNN-5oJNpFi_s8vTPvf2Tw",
+              "title": "70s 80s &amp; 90s Greatest Hits Playlist - Old School Songs - Best Of Oldies But Goodies",
+              "description": "70s 80s & 90s Greatest Hits Playlist - Old School Songs - Best Of Oldies But Goodies 70s 80s & 90s Greatest Hits Playlist - Old ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/LzSJkpMHDYc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/LzSJkpMHDYc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/LzSJkpMHDYc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Music Memory",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-03-11T22:30:01Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "jnOvF_26lU84PujK-_7aiTwsvjk",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "d_iK1EbiRz0"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-15T00:54:36Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "04. 메가박스 사이트 만들기 - 헤더 반응형 : 모바일 메뉴",
-          "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "ACTJyGWrabpQZW5j_kgTD7OJ4hk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lLmFehmW_KQ"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-15T00:54:36Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-07-08T07:00:58Z",
+              "channelId": "UCdTB4hMadQoqVaDiunBIkmQ",
+              "title": "Music to put you in a better mood ~ Study music - lofi / relax / stress relief",
+              "description": "Thank for Dreamhop ! Dreamhop Music on spotify: https://spoti.fi/3fNpOgA Follow \"Little Soul\" anywhere IG: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lLmFehmW_KQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lLmFehmW_KQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lLmFehmW_KQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Little Soul",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-07-08T07:00:58Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "osBWgXLGNiAsf_6snsGkI-N8Zw4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "uII8rsAEeDw"
-        },
-        "snippet": {
-          "publishedAt": "2018-11-27T15:03:24Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "26. 웹 표준 사이트 만들기(2019) - 로그인",
-          "description": "웹 표준 사이트 만들기(2019) 버전입니다. 이 영상은 사이트를 만들기 위한 기초적인 영상입니다. 웹 표준과 웹 접근성을 준수한 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/uII8rsAEeDw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/uII8rsAEeDw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/uII8rsAEeDw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "H9ihfxCQGnxZ3b2v_chpG656tbg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HF3GQEK_NUQ"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2018-11-27T15:03:24Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-12-03T15:00:09Z",
+              "channelId": "UCxViyvWWeogrYGuOo1ISglA",
+              "title": "Best Oldie 70s Music Hits   Greatest Hits Of 70s Oldies but Goodies 70&#39;s Classic Hits Nonstop Songs",
+              "description": "Best Oldie 70s Music Hits Greatest Hits Of 70s Oldies but Goodies 70's Classic Hits Nonstop Songs ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HF3GQEK_NUQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HF3GQEK_NUQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HF3GQEK_NUQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Old Music Hits",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-12-03T15:00:09Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "BljeQNV8l6k9Js2w_8w797iZGiM",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "7JXShbbbODY"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-14T02:35:57Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "03. 메가박스 사이트 만들기 - 배너 영역",
-          "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7JXShbbbODY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7JXShbbbODY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7JXShbbbODY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "rshaH0VBR5ZGdNFP1uIefo83j-c",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QloMdg2bapw"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-14T02:35:57Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-09-02T08:52:14Z",
+              "channelId": "UCIitwYtRrd2JGTTe1B0IAJA",
+              "title": "Music That Make You Feel BADASS 🎧 EDM Remixes of Popular Songs 🎧 EDM Music Mix ​| Bass Boosted",
+              "description": "Music Mix 2021 EDM Remixes of Popular Songs Music That Make You Feel BADASS Listen on Spotify / Apple / Youtube ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QloMdg2bapw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QloMdg2bapw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QloMdg2bapw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Magic Music Mix",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-02T08:52:14Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "5td6l2VUuLyHDhY9nRrMxAXBrm0",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "mIW-htccaoo"
-        },
-        "snippet": {
-          "publishedAt": "2019-07-22T22:30:02Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "CSS Animation - Dot 웹퍼블리셔 | 웹디자이너 | 웹스토리보이",
-          "description": "CSS Animation 튜토리얼입니다. CSS3를 이용한 애니메이션과 사이트에 필요한 모션에 대해서 배우는 튜토리얼입니다.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/mIW-htccaoo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/mIW-htccaoo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/mIW-htccaoo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "ChSWviRXxlBkIpLfU-vwjbP5-pA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "GBexfwe-9j0"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-07-22T22:30:02Z"
-        }
+          "snippet": {
+              "publishedAt": "2017-06-27T05:40:43Z",
+              "channelId": "UCQINXHZqCU5i06HzxRkujfg",
+              "title": "Disney Piano Collection - Relaxing Music For Relax, Study, Work",
+              "description": "0:00 Beauty And The Beast/美女と野獣 3:31 A Whole New World/アラジン 7:07 For The First Time In Forever/生まれてはじめて ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/GBexfwe-9j0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/GBexfwe-9j0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/GBexfwe-9j0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BGM channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-06-27T05:40:43Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "CPnz29c_ovt2SfuNaui3PGV-A18",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "qnwa6I5WosI"
-        },
-        "snippet": {
-          "publishedAt": "2022-08-18T01:00:15Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "[레이아웃01] 사이트 만들기 프로젝트1 - float, flex, grid 레이아웃 유형별 연습하기 | 포트폴리오가 실력이다 | 웹 퍼블리셔 | 프론트앤드 개발자",
-          "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qnwa6I5WosI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qnwa6I5WosI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qnwa6I5WosI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "HTelgGmlWGyDrv50JJoN-YekTyU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "VIS_chW21UI"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-08-18T01:00:15Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-03-21T04:54:20Z",
+              "channelId": "UCG0SzK_t4-Ylf1yZq9Xmi_g",
+              "title": "🔥Artistic Music 2022 Mix ♫ Top 30 NCS Gaming Music x Vocal Mix ♫ Best EDM, Trap, DnB, Dubstep, House",
+              "description": "Welcome to Freeme NCS☆ ------- ▻Artistic Music 2022 Mix ♫ Top 30 NCS Gaming Music x Vocal Mix ♫ Best EDM, Trap, DnB, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/VIS_chW21UI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/VIS_chW21UI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/VIS_chW21UI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Freeme NCS Music",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-03-21T04:54:20Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "tJ0s_WigSO1J1mKOAhj8IYtP5hA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "jePlIexZoc0"
-        },
-        "snippet": {
-          "publishedAt": "2019-01-28T00:23:10Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "16. 반응형 사이트 만들기 : 타이틀",
-          "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jePlIexZoc0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jePlIexZoc0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jePlIexZoc0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "R99bVxmcagOEjPa53kpiyu4wIUg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hMMnnYX_y28"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-01-28T00:23:10Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-13T13:00:23Z",
+              "channelId": "UC95bEkaIgwhxSjSsdMFXYGg",
+              "title": "The Arctic 4K - Scenic Wildlife Film With Calming Music",
+              "description": "The Arctic is one of the most enchanting regions on earth. Enjoy this 4K Scenic Wildlife film featuring the landscapes and animals ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hMMnnYX_y28/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hMMnnYX_y28/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hMMnnYX_y28/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Scenic Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T13:00:23Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZxYHq-OY5avQmXMdAxAHR7EXh5A",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "1vb2A9cTb1I"
-        },
-        "snippet": {
-          "publishedAt": "2021-02-28T15:00:02Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "포트폴리오 어떻게 만들어야 할까? - 프론트앤드 개발자 취업 #박상현",
-          "description": "프론트앤드 개발자로 취업된 학생의 작품입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "ULyx0R_h0pQHzgou1wagx4hTq58",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "9vpBLmZeCwU"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-02-28T15:00:02Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-13T12:00:06Z",
+              "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+              "title": "Inspiring Classical Music",
+              "description": "Buy the MP3 album on the Official Halidon Music Store: https://bit.ly/3E665W0 Listen to our playlist on Spotify: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/9vpBLmZeCwU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/9vpBLmZeCwU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/9vpBLmZeCwU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HALIDONMUSIC",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T12:00:06Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "hBBjBMF95IhCDVYgLVKYJRhZ3pw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "52TT7SLexxE"
-        },
-        "snippet": {
-          "publishedAt": "2019-01-06T03:28:59Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "01. 반응형 사이트 만들기(2019) - 시멘틱 태그",
-          "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/52TT7SLexxE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/52TT7SLexxE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/52TT7SLexxE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "n3O4kQJG2XlrujVoHDjQr0QClWo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "AvbCUgrxcxM"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-01-06T03:28:59Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-13T11:15:57Z",
+              "channelId": "UCUBTly7vzmm2MEScByn8jPA",
+              "title": "TOP 30 GUITAR ROMANTIC MUSIC - Best Guitar Music Relaxing Of All Time | Guitar Love Songs",
+              "description": "TOP 30 GUITAR ROMANTIC MUSIC - Best Guitar Music Relaxing Of All Time | Guitar Love Songs https://youtu.be/AvbCUgrxcxM ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AvbCUgrxcxM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AvbCUgrxcxM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AvbCUgrxcxM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Guitar Music Relaxing",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T11:15:57Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "lbyDZozZc6L89Uq1mWE9vrKb9sw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "yh4MUO05ils"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-20T23:51:10Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "[디자인03] 사이트 만들기 프로젝트1 - 이미지 영역01 | 포트폴리오가 실력이다 | 피그마 | 웹디자인너 | 웹 퍼블리",
-          "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/yh4MUO05ils/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/yh4MUO05ils/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/yh4MUO05ils/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "X4Qgr8WCD_5BFE9B4V_GHqeQxS8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "VmtVMObszjE"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-20T23:51:10Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-13T20:45:00Z",
+              "channelId": "UCz08eyb3Noqa6yC0z2bWENw",
+              "title": "Peaceful Night 💜 Soothing Deep Sleep Music 🎵 FALL INTO SLEEP INSTANTLY ★ Calming Music",
+              "description": "Thank you for tuning in to this soothing deep sleep music Beautiful & Enchanting background with 8 hours of calming music for ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/VmtVMObszjE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/VmtVMObszjE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/VmtVMObszjE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Personal Power - Sleep Serenity & Meditation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T20:45:00Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "9hkOMQpm-WfOpRjuEFkD1mZ7tNk",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "fEtk9m2sUNo"
-        },
-        "snippet": {
-          "publishedAt": "2019-12-23T23:00:09Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "CSS Animation - hoverEffect04 | flex | figure | perspective",
-          "description": "CSS Animation 튜토리얼입니다. CSS3를 이용한 애니메이션과 사이트에 필요한 모션에 대해서 배우는 튜토리얼입니다.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "-7XeiBdhUlid6gawvuYVkU229R0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "8tLa7O-2VEk"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-12-23T23:00:09Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T23:01:05Z",
+              "channelId": "UCCxnCQXYfV8uuWeV_XX9nDA",
+              "title": "English Songs Playlist ♫ Acoustic Cover Of Popular TikTok Songs ♫ Best Pop Music",
+              "description": "English Songs Playlist ♫ Acoustic Cover Of Popular TikTok Songs ♫ Best Pop Music Playlist Spotify: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/8tLa7O-2VEk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/8tLa7O-2VEk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/8tLa7O-2VEk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Our Memories",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T23:01:05Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "uoHVeoi7WbyFk6BmH0o6jR0Z5r4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "NWHIwQlptgM"
-        },
-        "snippet": {
-          "publishedAt": "2019-12-09T23:34:50Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; 웹스토리보이",
-          "description": "포트폴리오 인터뷰 영상입니다. 웹 퍼블리셔를 준비하는 과정부터 사이트를 만드는 과정을 인터뷰 영상으로 담았습니다. 현재는 웹 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NWHIwQlptgM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NWHIwQlptgM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NWHIwQlptgM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "UESO1859EI2CNpX1MtAMX4JHNug",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "PEM0Vs8jf1w"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-12-09T23:34:50Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-10-12T14:00:11Z",
+              "channelId": "UCSOfUqPoqpp5aWDDnAyv94g",
+              "title": "JVKE - golden hour (official music video)",
+              "description": "Official Music Video for \"golden hour\" byJVKE STREAM \"golden hour\": https://jvke.ffm.to/goldenhour *NEW ALBUM* this is what ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/PEM0Vs8jf1w/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "JVKE",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-12T14:00:11Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "UrjbmZymQbPEVlhkRZ4OyWPj7ho",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "6UOQxucuT90"
-        },
-        "snippet": {
-          "publishedAt": "2019-03-10T23:44:08Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "01. 웹디자이너와 웹퍼블리셔를 위한 기업 사이트 만들기 - 기본 작업",
-          "description": "01. 웹디자이너와 웹퍼블리셔를 위한 기업 사이트 만들기 - 기본 작업 웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/6UOQxucuT90/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/6UOQxucuT90/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/6UOQxucuT90/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "KVW1dk9u1fW5z7h1QFvTXnzlh88",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "2Zehc7knshM"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-03-10T23:44:08Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T00:40:57Z",
+              "channelId": "UC9qr4fem8L5HEx0IDoktEpw",
+              "title": "2022 New Songs ( Latest English Songs 2022 ) 🥒 Pop Music 2022 New Song 🥒 New Popular Songs 2022",
+              "description": "2022 New Songs ( Latest English Songs 2022 ) Pop Music 2022 New Song New Popular Songs 2022 Welcome to Pop ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2Zehc7knshM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2Zehc7knshM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2Zehc7knshM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Pop Internacionais",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T00:40:57Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "PtSVMXT6l0CbS5zoyqdzSqPK-8E",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "GbpLRH886b8"
-        },
-        "snippet": {
-          "publishedAt": "2018-05-01T07:05:16Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "13. 가비아 사이트 만들기 - select3",
-          "description": "http://webstoryboy.co.kr/category.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GbpLRH886b8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GbpLRH886b8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GbpLRH886b8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "1awf6bO-dRhSKbZMBtnyEf6ZQQ0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fB-If0inWuI"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2018-05-01T07:05:16Z"
-        }
+          "snippet": {
+              "publishedAt": "2019-04-05T12:00:03Z",
+              "channelId": "UCqwJGbr0bm8XbudrEsQhp4Q",
+              "title": "Luh Kel - Wrong (Official Music Video)",
+              "description": "Watch Luh Kel's official music video for 'Wrong' Out Now on Cinematic. Stream/download Luh Kel's debut project Mixed Emotions ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fB-If0inWuI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fB-If0inWuI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fB-If0inWuI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Luh Kel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-04-05T12:00:03Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "7ZhuQAt8H1INJqY5egXR4QkWrkE",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "WKc4eDBYqdk"
-        },
-        "snippet": {
-          "publishedAt": "2021-10-08T00:07:55Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "스크립트 이펙트 : Parallax Effect06 : 이질감 - jQuery",
-          "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "TX2gag3zHLnovTDBJdwp1Ez6kAo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ewxAFCe_jts"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-10-08T00:07:55Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-13T08:32:17Z",
+              "channelId": "UCqWgRrEdjP35XiULZIruR8A",
+              "title": "Music Mix 2022 🎧 Remixes of Popular Songs 🎧 EDM Best Music Mix",
+              "description": "Listen on Spotify: https://deepuniverse.lnk.to/HouseMusic Our Spotify Playlists: ➥ Car Music: https://spoti.fi/37JumTS ➥ Gaming ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ewxAFCe_jts/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ewxAFCe_jts/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ewxAFCe_jts/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Sunkissed",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T08:32:17Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "P31AfbF74YtAJk4jwed0AlRZpv8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "qYKV9ySKids"
-        },
-        "snippet": {
-          "publishedAt": "2019-07-31T08:57:26Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "19. 웹디자인 기능사 따라하면 딴다 - 실전사이트 만들기2-2",
-          "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qYKV9ySKids/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qYKV9ySKids/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qYKV9ySKids/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "LzCrax4zgJ7vNYWjSuXU8lGtG70",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kP6oli5ELnk"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-07-31T08:57:26Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-15T04:41:37Z",
+              "channelId": "UCdTB4hMadQoqVaDiunBIkmQ",
+              "title": "Music that make you feel positive and calm 🍃 lofi / relax / stress relief",
+              "description": "Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA Every Mon + Wed + Fri my channel updates new videos about lofi ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kP6oli5ELnk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kP6oli5ELnk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kP6oli5ELnk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Little Soul",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-15T04:41:37Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "wtJ3OZcQe-pBaHXVJuYGa46xR7s",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "wze-hZn8_zA"
-        },
-        "snippet": {
-          "publishedAt": "2019-06-15T10:00:24Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "03. 웹디자인 기능사 따라하면 딴다 - 레이아웃1_2 | 웹스토리보이",
-          "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/wze-hZn8_zA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/wze-hZn8_zA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/wze-hZn8_zA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "d1MdDlng3WZoEXCA7bebewyCCN0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lG-JkvTpsWQ"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-06-15T10:00:24Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-04-07T02:01:30Z",
+              "channelId": "UCSf0vCPZrI-T4v2LUfGrPSw",
+              "title": "Chill Songs ♫ Acoustic Love Songs 2022 🍃 Chill Music cover of popular songs",
+              "description": "Listen on Spotify: https://magicmusic.lnk.to/theBestPop Chill Songs ♫ Acoustic Love Songs 2022 Chill Music cover of popular ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lG-JkvTpsWQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lG-JkvTpsWQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lG-JkvTpsWQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Music Club",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-07T02:01:30Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "U5ebn5dTG6j__f0fZa4jHCTsZDU",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "A4m1qPc8ihY"
-        },
-        "snippet": {
-          "publishedAt": "2019-06-16T00:00:02Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "04. 웹디자인 기능사 따라하면 딴다 - 레이아웃2 | 웹스토리보이",
-          "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/A4m1qPc8ihY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/A4m1qPc8ihY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/A4m1qPc8ihY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "bLXOhUggAgaXvUudDnBT4jfkKBU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "xocG29nCmQs"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-06-16T00:00:02Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T16:53:52Z",
+              "channelId": "UC4L-dSrzbPoZcr1Av5GvwKw",
+              "title": "Fall Asleep In Under 3 MINUTES | Instant Relief from Insomnia, Depression, Anxiety &amp; Stress",
+              "description": "Music to sleep deeply and rest the mind, relaxing and calm music to sleep. To stay calm and relieve stress after a hard day at work ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xocG29nCmQs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xocG29nCmQs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xocG29nCmQs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Open Heart Music - Helios 4K",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T16:53:52Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "qPlhmI-phM6W0yFB5gzaq6vd5Y8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "bPrFBcUm83E"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-06T04:55:43Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "포트폴리오 어떻게 만들어야 할까? - 프론트 앤드 개발자 취업 인터뷰 #안주연 #주혜지",
-          "description": "스터디 프론트앤드 개발자의 취업 인터뷰입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/bPrFBcUm83E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/bPrFBcUm83E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/bPrFBcUm83E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "hcp0c-hi_RfY2QiXhS4RjWgphvk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "wYZux3BMc5k"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-06T04:55:43Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-11-24T02:31:12Z",
+              "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+              "title": "IShowSpeed - Shake (Official Music Video)",
+              "description": "MERCH HOODIE - https://www.ishowspeedstore.com PO BOX - 24466 CINCINNATI OH, 45224 ZIPCODE snapchat: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/wYZux3BMc5k/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/wYZux3BMc5k/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/wYZux3BMc5k/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "IShowSpeed",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-11-24T02:31:12Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "4TGW2d91Pt3YqplWaGJQPnZ2OYk",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "nxpQq7wM7m0"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-24T23:41:11Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "[디자인04] 사이트 만들기 프로젝트1 - 이미지/텍스트 영역01 | 포트폴리오가 실력이다 | 피그마 | 웹디자인너 | 웹 퍼블리셔",
-          "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nxpQq7wM7m0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nxpQq7wM7m0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nxpQq7wM7m0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "NNf688oODrIyy-p71gxbQHyTPpo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fowcj6Swn84"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-24T23:41:11Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-03-31T01:18:23Z",
+              "channelId": "UCxa9YLVKZ3sM1K2_3CBdHdQ",
+              "title": "Porsha (Halsey) - Could Have Been Me (Music Video) [Full Movie Scene] Watch Sing 2 Now!!!",
+              "description": "Porsha (Halsey) - Could Have Been Me (Music Video)[Full Movie Scene] Watch Sing 2 Now!!! Lyrics: Don't wanna live as an ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fowcj6Swn84/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fowcj6Swn84/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fowcj6Swn84/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NIGHTMAUREUM",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-31T01:18:23Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "b43UHIT_7f_G_wnn-HmA3UcE3jA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "YJmZ751soM0"
-        },
-        "snippet": {
-          "publishedAt": "2019-06-09T23:55:08Z",
-          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-          "title": "20. 메가박스 사이트 만들기(2019) - 탭메뉴, 스킵메뉴",
-          "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/YJmZ751soM0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/YJmZ751soM0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/YJmZ751soM0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "iBGMC1qsjq15cuktTZuhsDHQ-VI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "KOXWS0P5HiQ"
           },
-          "channelTitle": "Webstoryboy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-06-09T23:55:08Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-14T16:45:56Z",
+              "channelId": "UC4zvcd2F0UebXfG4LfygTmQ",
+              "title": "Old Vs New Bollywood Mashup 2022| Superhits Romantic Hindi Songs Mashup Live - DJ MaShUP 2022",
+              "description": "Old Vs New Bollywood Mashup 2022| Superhits Romantic Hindi Songs Mashup Live - DJ MaShUP 2022 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/KOXWS0P5HiQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/KOXWS0P5HiQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/KOXWS0P5HiQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "New Hindi PartyMix",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-14T16:45:56Z"
+          }
       }
-    ]
-  }
+  ]
+}
