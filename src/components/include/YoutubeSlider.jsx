@@ -20,24 +20,22 @@ const YoutubeSlider = ({ random }) => {
             <div className="container">
                 <div className="youtubeSlider__inner">
                     <Swiper
-                        pagination={{
-                            clickable: true,
-                            // dynamicBullets: true,
-                        }}
+                        // pagination={{
+                        //     clickable: false,
+                        // }}
                         spaceBetween={30}
-                        slidesPerView={5}
+                        slidesPerView={3}
                         centeredSlides={true}
                         autoplay={{
-                            delay: 2500,
+                            delay: 1500,
                             disableOnInteraction: false,
                         }}
                         modules={[Pagination, Autoplay]}
                         className="mySwiper"
                     >
                         {random.map((random, index) => (
-                            <SwiperSlide>
+                            <SwiperSlide key={index}>
                                 <YoutubeSliderItem
-                                    key={index}
                                     random={random}
                                 />
                             </SwiperSlide>

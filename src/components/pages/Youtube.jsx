@@ -34,10 +34,8 @@ const Youtube = () => {
             .catch((error) => console.log("error", error));
 
         fetch(
-            // "https://youtube.googleapis.com/youtube/v3/search?key=AIzaSyARpIi7wYT1We05k6mliszOp-gkXK-eR2c&part=snippet&maxResults=30&type=video&q=music")
             "https://eu-ny.github.io/react_api/src/utils/youtube.json")
             .then((response) => response.json())
-            // .then(result => console.log(result))
             .then((result) => setrandom(result.items))
             .catch((error) => console.log("error", error));
     }, []);

@@ -24,20 +24,22 @@
                 img {
                     border-radius: 5px;
                     object-fit: cover;
+                    height: 250px;
+                    width: 100%;
                 }
             }
         }
     }
 }
-
-// .cont__youtube {
-//     margin-bottom: 120px;
-
-//     img {
-//         object-fit: cover;
-
-//     }
-// }
+.youtubeSlider__inner {
+    img {
+        width: 100%;
+        vertical-align: top;
+        height: 210px;
+        border-radius: 5px;
+        object-fit: cover;
+    }
+}
 .swiper-pagination {
     position: static !important;
     margin-top: 30px;
